@@ -166,7 +166,7 @@ body {
 
 .two-item {
   width: 30%;
-  height: 45%;
+/*   height: 45%; */
   border: solid 1px black;
   float: left;
   margin: 30px 0px;
